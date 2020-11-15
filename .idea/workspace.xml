@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="381224df-188d-4ed3-b721-e865978764a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1YMtZWZRPMDf3FCP9jtc0VUEOeZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build demo227_运算符 (1)">
+    <configuration name="go build demo227_运算符 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo227_运算符" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo3_练习.go" />
+      <package value="demo227_运算符" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo227_运算符" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="demo227_运算符" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo1_关系运算符.go" />
+      <package value="demo227_运算符" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build demo227_运算符 (1)" />
+        <item itemvalue="Go Build.go build demo227_运算符" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="40" key="#go_build_demo227_运算符" timestamp="1582765842102">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo227_运算符/0.0.1280.760@0.0.1280.760" timestamp="1582765842102" />
+    <state x="366" y="40" key="#go_build_demo227_运算符_(1)" timestamp="1582768023162">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="366" y="40" key="#go_build_demo227_运算符_(1)/0.0.1280.760@0.0.1280.760" timestamp="1582768023162" />
+    <state width="1219" height="139" key="GridCell.Tab.0.bottom" timestamp="1582771092326">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="139" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1582771092326" />
+    <state width="1219" height="139" key="GridCell.Tab.0.center" timestamp="1582771092326">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="139" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1582771092326" />
+    <state width="1219" height="139" key="GridCell.Tab.0.left" timestamp="1582771092326">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="139" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1582771092326" />
+    <state width="1219" height="139" key="GridCell.Tab.0.right" timestamp="1582771092326">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1219" height="139" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1582771092326" />
+  </component>
+</project>
